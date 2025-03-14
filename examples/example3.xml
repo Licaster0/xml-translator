@@ -1,0 +1,23 @@
+<library>
+    <book>
+        <title>XML for Beginners</title>
+        <author>Emily White</author>
+        <publisher>Beginner Books</publisher>
+        <price currency="EUR">15.99</price>
+        <isbn>978-3-16-148410-0</isbn>
+        <publication_date>2022-01-01</publication_date>
+    </book>
+    <book>
+        <title>Advanced XML Techniques</title>
+        <author>Robert Black</author>
+        <publisher>Advanced Books</publisher>
+        <price currency="EUR">25.99</price>
+        <isbn>978-1-23-456789-0</isbn>
+        <publication_date>2023-05-15</publication_date>
+    </book>
+    <contact>
+        <email>support@xmlbooks.com</email>
+        <phone>+1234567890</phone>
+        <address>123 Book Street, Library City, Bookland</address>
+    </contact>
+</library>

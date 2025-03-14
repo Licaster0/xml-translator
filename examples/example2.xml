@@ -1,0 +1,16 @@
+<bookstore>
+    <book>
+        <title>The Great Adventure</title>
+        <author>John Doe</author>
+        <publisher>XYZ Publishing</publisher>
+        <price currency="USD">19.99</price>
+        <description>A thrilling adventure story full of twists and turns.</description>
+    </book>
+    <book>
+        <title>Learning XML</title>
+        <author>Jane Smith</author>
+        <publisher>ABC Publishing</publisher>
+        <price currency="USD">29.99</price>
+        <description>An in-depth guide to mastering XML for web development and data processing.</description>
+    </book>
+</bookstore>

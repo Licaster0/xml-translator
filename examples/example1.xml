@@ -1,0 +1,15 @@
+<document>
+    <header>
+        <title>Welcome to the XML Translator</title>
+        <subtitle>Simple Example</subtitle>
+    </header>
+    <body>
+        <section>
+            <p>This is a sample XML file for demonstrating basic translation.</p>
+            <p>XML format is simple and widely used in data storage and transfer.</p>
+        </section>
+    </body>
+    <footer>
+        <p>Thank you for using the XML Translator!</p>
+    </footer>
+</document>
