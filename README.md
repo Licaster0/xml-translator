@@ -80,7 +80,4 @@ Her katkı için testlerin çalıştığından emin olun.
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ### İletişim
-
-Projeye dair sorularınız veya önerileriniz için iletişime geçebilirsiniz:
-
-- Instagram: [licaster0](https://www.instagram.com/licaster0/)
+--
